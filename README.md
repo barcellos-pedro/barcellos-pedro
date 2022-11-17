@@ -1,6 +1,6 @@
 ### Hi there, I'm Pedro and welcome! ✌🏽
 
-> 👨‍💻 I'm a Software Engineer from Brazil.
+> 👨‍💻 I'm a Software Engineer from Brazil 🇧🇷.
 
 - 🙂 Pronouns: He/him/his.
 - ☕ Currently working mostly with Javascript on my projects.
