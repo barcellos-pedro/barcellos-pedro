@@ -1,9 +1,8 @@
-### Hi there, I'm Pedro and welcome! ✌🏽
+### Hi there, I'm Pedro, and welcome! ✌🏽
 
-> 👨‍💻 I'm a Software Engineer from Brazil 🇧🇷.
+> 👨‍💻 I'm a Software Engineer.
 
 - 🙂 Pronouns: He/him/his.
-- ☕ Currently working mostly with Javascript on my projects.
-- 🌱 Currently enjoying to learn React and Nodejs.
-- 💙 Consistently learning about web programming and technology.
+- ☕ I enjoy working with javascript
+- 💙 Consistently learning about web development.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/pedro-barcellos)
