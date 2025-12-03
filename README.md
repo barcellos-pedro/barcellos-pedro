@@ -11,5 +11,4 @@ I enjoy learning and seeing new ways of doing things!
 
 Fun Facts:
 
-- I look like drake
 - i have 6 cats
