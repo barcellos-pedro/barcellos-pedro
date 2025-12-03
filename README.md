@@ -1,9 +1,15 @@
 ### Hi there! ✌🏽
 
-> I'm a Software Engineer who enjoys learning and seeing new ways of doing things!
+I'm [Pedro](pedroreis.dev), a Software Engineer based on Brazil.
 
-- ☕ I enjoy working with the Web.
+I enjoy learning and seeing new ways of doing things!
 
-- 📚 Interested about reading programming concepts and techniques.
+- My focus is on the Web.
+- Interested about reading programming concepts and techniques.
+- Currently learning: Back-end Engineering & Cloud Services.
+- Stack: Java, Python, JavaScript, AWS.
 
-- 🌱 Currently learning: Back-end Engineering & Cloud Services.
+Fun Facts:
+
+- I look like drake
+- i have 6 cats
