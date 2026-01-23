@@ -8,7 +8,4 @@ I enjoy learning and seeing new ways of doing things!
 - Interested about reading programming concepts and techniques.
 - Currently learning: Back-end Engineering & Cloud Services.
 - Stack: Java, Python, JavaScript, AWS.
-
-Fun Facts:
-
-- i have 6 cats
+- I have **6** cats
