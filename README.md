@@ -1,6 +1,6 @@
 ### Hi there! ✌🏽
 
-I'm [Pedro Barcellos](https://pedroreis.dev), a Software Engineer based on Brazil 🇧🇷.
+I'm [Pedro Barcellos](https://pedroreis.dev), a Software Engineer 🇧🇷.
 
 I enjoy learning and seeing new ways of doing things!
 
