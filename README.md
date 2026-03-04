@@ -8,4 +8,5 @@ I enjoy learning and seeing new ways of doing things!
 - Interested about reading programming concepts and techniques.
 - Currently learning: Back-end Engineering & Cloud Services.
 - Stack: Java, Python, JavaScript, AWS.
+- Currently using Omarchy as daily driver distro
 - I have **6** cats
